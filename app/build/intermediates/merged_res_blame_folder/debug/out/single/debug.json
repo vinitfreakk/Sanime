@@ -1,0 +1,262 @@
+[
+    {
+        "merged": "com.accidentaldeveloper.scrollanime.app-merged_res-33:/layout_activity_anime_detail.xml.flat",
+        "source": "com.accidentaldeveloper.scrollanime.app-main-35:/layout/activity_anime_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\drawable_saitama.png.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\drawable\\saitama.png"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\drawable_deku.png.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\drawable\\deku.png"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\layout_activity_anime_detail.xml.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\layout\\activity_anime_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\drawable_naruto1.png.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\drawable\\naruto1.png"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\drawable_deathnote1.png.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\drawable\\deathnote1.png"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\drawable_demonslayer3.jpg.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\drawable\\demonslayer3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\drawable_berserk1.png.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\drawable\\berserk1.png"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-pngs-28:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\drawable_text_bg.xml.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\drawable\\text_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\font_bungee_shade.xml.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\font\\bungee_shade.xml"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\drawable_demonslayer4.png.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\drawable\\demonslayer4.png"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\drawable_fuck.jpg.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\drawable\\fuck.jpg"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\drawable_zoro.png.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\drawable\\zoro.png"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\layout_animecard.xml.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\layout\\animecard.xml"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\drawable_star.png.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\drawable\\star.png"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\drawable_erenyeager.png.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\drawable\\erenyeager.png"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\font_alfa_slab_one.xml.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\font\\alfa_slab_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\drawable_zoro3.png.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\drawable\\zoro3.png"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\drawable_demonsalyer5.jpg.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\drawable\\demonsalyer5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\drawable_gojo1.png.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\drawable\\gojo1.png"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\font_japan2.otf.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\font\\japan2.otf"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\font_japan1pj.otf.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\font\\japan1pj.otf"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\drawable_naruto.png.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\drawable\\naruto.png"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\drawable_eyeopen.png.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\drawable\\eyeopen.png"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\drawable_cardback.xml.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\drawable\\cardback.xml"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\drawable_berserk.png.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\drawable\\berserk.png"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\drawable_ickr.jpg.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\drawable\\ickr.jpg"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\drawable_onepunchman1.png.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\drawable\\onepunchman1.png"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\drawable_gojo.png.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\drawable\\gojo.png"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\drawable_drangoan1ball1.png.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\drawable\\drangoan1ball1.png"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\font_just_another_hand.xml.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\font\\just_another_hand.xml"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\layout_demo.xml.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\layout\\demo.xml"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\drawable_goku.png.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\drawable\\goku.png"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\drawable_l.png.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\drawable\\l.png"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\drawable_demonsalyer.jpg.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\drawable\\demonsalyer.jpg"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\drawable_gojo2.png.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\drawable\\gojo2.png"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\drawable_levi.png.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\drawable\\levi.png"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\drawable_backgroud.xml.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\drawable\\backgroud.xml"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\drawable_deku1.png.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\drawable\\deku1.png"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\drawable_tanjero.png.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\drawable\\tanjero.png"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\font_caesar_dressing.xml.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\font\\caesar_dressing.xml"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\font_butcherman.xml.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\font\\butcherman.xml"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\font_aclonica.xml.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\font\\aclonica.xml"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-merged_res-33:\\drawable_zoro1.png.flat",
+        "source": "C:\\Users\\vinit\\.gradle\\daemon\\7.3.3\\com.accidentaldeveloper.scrollanime.app-main-35:\\drawable\\zoro1.png"
+    }
+]

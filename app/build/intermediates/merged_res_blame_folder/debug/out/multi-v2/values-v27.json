@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.accidentaldeveloper.scrollanime.app-mergeDebugResources-31:/values-v27/values-v27.xml",
+            "map": [
+                {
+                    "source": "E:\\ScrollAnime\\app\\src\\main\\res\\values-v27\\themes.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "59",
+                        "endLines": "19",
+                        "endColumns": "12",
+                        "endOffsets": "1034"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "18",
+                        "endColumns": "12",
+                        "endOffsets": "893"
+                    }
+                }
+            ]
+        }
+    ]
+}
